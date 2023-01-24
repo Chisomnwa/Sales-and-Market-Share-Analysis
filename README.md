@@ -30,7 +30,7 @@ The company, VanArsdel, manufactures expensive electronic products that could be
 
 
 
-# The processes I took in other to provide answers to the above questions are:**
+# The processes I took in other to provide answers to the above questions are:
 
 * Cleaned the data using Power Query and merging necessary tables to overcome ambuguity
 
