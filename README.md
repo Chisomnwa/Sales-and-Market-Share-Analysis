@@ -12,7 +12,7 @@ The company, VanArsdel, manufactures expensive electronic products that could be
 
 * Color Theme Folder: This contains the colorthesme you can use the design the charts and dashboard
 
-* Final Project and Dashboard Folder: This contains the final project and my dashboard and the the end of this project.
+* Final Project and Dashboard Folder: This contains the final project and my dashboard and the the end of this project. You can download the Excel sheet that contains the final dashboard from here.
 
 * VanArsdel Logo: This is the Vanrsdel company logo for the dashboard design.
 
