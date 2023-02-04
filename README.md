@@ -1,6 +1,6 @@
 # Sales and Market Share Analysis using Excel
 
-As the Business Intelligent Analyst, I was directed by the CMO of Varnarsdel, a fictitious manufacturing company to analyze the sales and market data of the company and its competitors. He wants to keep an eye on the company’s performance both internally and externally.
+As the Business Intelligent Analyst, I was directed by the CMO of VarnArsdel, a fictitious manufacturing company to analyze the sales and market share data of the company and its competitors. He wants to keep an eye on the company’s performance both internally and externally.
 
 The company, VanArsdel, manufactures expensive electronic products that could be used for fun as well as work and it sells them directly to consumers nationwide as well as several other countries. VanArsdel and its competitors have retained a 3rd party marketing company to collect and anonymize industry sales so that all participants can benchmark themselves.
 
