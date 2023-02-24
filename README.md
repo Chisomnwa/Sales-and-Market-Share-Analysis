@@ -42,4 +42,4 @@ The company, VanArsdel, manufactures expensive electronic products that could be
 
 * Designed my dashboard with the reports and most important metrics.
 
-![Dashboard](https://github.com/Chisomnwa/AdventureWorks-Sales-Performance-Analysis/blob/Main/AdventureWorks%20Sales%20Performance%20Dashboard.jpg)
+![Dashboard](https://github.com/Chisomnwa/Sales-and-Market-Share-Analysis/blob/main/Sales%20and%20Market%20Share%20Analysis%20Dashboard.JPG)
